@@ -28,4 +28,4 @@ Part B is mainly structured around creating an interface for the project where t
 PART C
 
 Part C of the project was geared towards creating a GUI for the management of  venues and promoters where the user had the ability to
-manipulate this data.This part of the project was done as a group with he two toher ontributors being **Giovanne Pinto and Ikobi Lynch**.
+manipulate this data.This part of the project was done as a group with he two oher contributors being **Giovanne Pinto and Ikobi Lynch**.
